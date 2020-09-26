@@ -1,0 +1,110 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: monospace;
+}
+
+header
+{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.logo img
+{
+	width: 70px;
+	height: auto;
+	margin: 10px;
+}
+
+.row
+{
+	max-width: 1200px;
+	margin: auto;
+}
+
+.main-nav
+{
+	float: right;
+	list-style: none;
+	margin-top: 30px; 
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "roboto", Sans-serif;
+	font-size: 15px; 
+}
+
+.main-nav li a:hover
+{
+	border: 1px solid #fff;	
+}
+
+.hero
+{
+	margin-top: 200px;
+}
+
+h1
+{
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 70px;
+	text-align: center;
+}
+
+.button
+{
+	margin-top: 40px;
+	text-align: center;
+}
+
+.btn
+{
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+	margin: 5px;
+	font-size: 13px;
+	text-transform: uppercase;
+	font-family: "roboto", Sans-serif; 
+}
+
+.btn-one
+{
+	background-color: #f44336;
+	border: 1px solid #f44336;
+}
+
+.btn-two
+{
+	border: 1px solid #fff;
+}
+
+.btn-two:hover
+{
+	background-color: #f44336;
+	border: 1px solid #f44336;
+	transition: 0.5s;
+}
+
+.btn-three:hover
+{
+	background-color: #c21833;
+	transition: 0.5s;
+}
