@@ -37,4 +37,4 @@ Feel free to create issues [here](https://github.com/viraldevpb/Web_Projects/iss
 
 ## [Try it](https://github.com/viraldevpb/Web_Projects)
 
-## [Follow me on Instagram for daily coding posts](https://www.instagram.com/prathamesh_borse_pb/)
+## [Follow me on Instagram for daily coding posts](https://www.instagram.com/theshycoder/)
